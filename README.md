@@ -1,5 +1,6 @@
-# Project: Bata Shop
+# Project: Car selling website
 I am Tareq Hasan
+
 Description: Car-selling website
 #
 
@@ -15,3 +16,4 @@ Technology we use to build this project:
 - MongoDB
 - React hook form
 - React Rating
+- Private Route
